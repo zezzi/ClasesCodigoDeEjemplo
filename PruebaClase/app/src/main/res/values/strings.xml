@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PruebaClase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="descrip"> Lorem Ipsum Lorem Ipsum is simply dummy Lorem Ipsum is simply dummy Lorem Lorem Ipsum is simply dummy Lorem  Lorem Ipsum is simply dummy Lorem  Ipsum is simply dummy  is simply dummy Lorem Ipsum is simply dummy Lorem Ipsum is simply dummy Lorem Ipsum is simply dummy </string>
+    <string name="title_activity_detalle_actividad">DetalleActividad</string>
+    <string name="title_activity_detalle_actividad2">DetalleActividad2</string>
+
+</resources>
